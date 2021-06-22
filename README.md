@@ -5,3 +5,8 @@
 # Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=royal78&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+
+#Top language s
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royal78&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
