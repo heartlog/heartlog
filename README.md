@@ -10,3 +10,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royal78&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# Contribution Graph
+### Contribution Graph:
+
+<p align="center">
+  <a href="https://github.com/royal78">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=royal78#version3"/>
+  </a>
+</p>
+<a href="https://github.com/royal78"><img alt="royals's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=royal78&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
