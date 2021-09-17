@@ -19,11 +19,11 @@
 # My favourite !!
 ![Ren](https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png)
 
-# hubd
-```python
-import 
-print("bsh😆😆😆😆")
-```
+# Languages I Know
+[![Python](https://img.shields.io/badge/Python-Python%203.9.7-fff000?style=for-the-badge&logo=Python&logoColor=violet)]()
+[![Javascript](https://img.shields.io/badge/Javascript-Beginner-fff000?style=for-the-badge&logo=javascript&logoColor=fff334)]()
+[![HTML5](https://img.shields.io/badge/HTML5-website-fff000?style=for-the-badge&logo=html5&logoColor=fff334)]()
+
 
 # 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
