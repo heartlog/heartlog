@@ -2,7 +2,7 @@
 
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Royal78 or diablo_13N</h1>
 
-[![telegram badge](https://img.shields.io/badge/heartlog-00adb5?style=flat&logo=telegram)](https://t.me/diablo_13N)  
+[![telegram badge](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-00adb5?style=flat&logo=telegram)](https://t.me/diablo_13N)  
 <img src="https://komarev.com/ghpvc/?username=heartlog&label=Profile%20views&color=ff69b4&style=flat" alt="dlaize" />
 
 ### My instrests 💟
@@ -44,11 +44,12 @@ print("bsh😆😆😆😆")
 
 ## **Contact**
 
-[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/diablo_13N)
+[![Telegram](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-f15dff?style=for-the-badge&logo=telegram)](https://t.me/diablo_13N)
 
-[![Telegram](https://img.shields.io/badge/-Telegram%20Channel-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/baka_no_onii)
+[![Telegram](https://img.shields.io/badge/Telegram%20Channel-OY%20BAKA%20!-c6eff3?style=for-the-badge&logo=Telegrm)](https://t.me/baka_no_onii)
 
-[![Telegram](https://img.shields.io/badge/-Telegram%20Support%20Group-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/anim_chatx)
+[![Telegram](https://img.shields.io/badge/Telegram%20Support%20Group-Anime%20Chat%20X-00adb5?style=for-the-badge&logo=Telegram)](https://t.me/anim_chatx)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/anime_element)
-[![Discord Server](https://img.shields.io/badge/-Discord%20Server-%23282a36?style=for-the-badge&logo=Discord)]()
+[![Twitter](https://img.shields.io/badge/Twitter-anime_element-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/anime_element)
+
+[![Discord Server](https://img.shields.io/badge/Discord-Discord%20Server(currently%20in%20maintanance)-6000d0?style=for-the-badge&logo=Discord)]()
