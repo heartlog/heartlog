@@ -7,12 +7,13 @@
 
 ### My instrests 💟
 
-- Love to watch anime a lot ! 😇
-- Read manga a lot after I found a [good manga reader📖 ](https://tachiyomi.org/).
+- Love to watch `anime` a lot ! 😇
+- Started to read manga a lot after I found a [good manga reader📖 ](https://tachiyomi.org/).
 - I also read LN.
-- I like to see Subbed Anime over Dubbed Anime.
-- Anime sub is 100 times better than Dubbed for me. [✓](https://reelrundown.com/animation/Subbed-vs-Dubbed-Which-is-the-Best-Way-to-Watch-Anime)
-- I use Telegrm a lot ! (compared to Whatsapp - Less than Telegrm)
+- Also, I read `Webtoon`, `webnovel`, `Manhua`, `Manhwa`. → [Translated in english by many `scans/translators`]
+- I like to see `Subbed Anime` over `Dubbed Anime`.(so, **Sub > Dub**)
+- `Anime Sub` is **100 times** better than Dub for me. [✓](https://reelrundown.com/animation/Subbed-vs-Dubbed-Which-is-the-Best-Way-to-Watch-Anime)
+- I use `Telegrm` a lot ! (If compared **Telegrm** > **Whatsapp** 😇)
 
 
 # My favourite !!
@@ -29,18 +30,20 @@ print("bsh😆😆😆😆")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 𝓢𝓽𝓪𝓽𝓼
-* 𝒮𝓉𝓇𝑒𝒶𝓀 𝒮𝓉𝒶𝓉𝓈
+## **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
 <p align="center">
   <a href="https://github.com/heartlog">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=heartlog#version3"/>
   </a>
 </p>
 
-* 𝑔𝓇𝒶𝓅𝒽
+## **Ǥᖇᗩᑭᕼ**
 <p align="centre">
 <a href="https://github.com/heartlog">
-<img alt="royals's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heartlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img alt="my's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heartlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
+
+> For information, This activity graph only shows the **Public commits** and activity related to my/others public repos. So, Private commits is not calculated in this graph.
 
 ## **Contact**
 
