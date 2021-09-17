@@ -4,14 +4,14 @@
 
 [![telegram badge](https://img.shields.io/badge/heartlog-00adb5?style=flat&logo=telegram)](https://t.me/diablo_13N)  <img src="https://komarev.com/ghpvc/?username=heartlog&label=Profile%20views&color=00adb5&style=flat" alt="dlaize" />
 
-Pog content ™
+### My instrests 💟
 
 - Love to watch anime a lot ! 😇
 - Read manga a lot after I found a [good manga reader📖 ](https://tachiyomi.org/).
 - I also read LN.
 - I like to see Subbed Anime over Dubbed Anime.
 - Anime sub is 100 times better than Dubbed for me. [✓](https://reelrundown.com/animation/Subbed-vs-Dubbed-Which-is-the-Best-Way-to-Watch-Anime)
-- I used to join the communities in Telegram and Discord 😼
+- I use Telegrm a lot ! (compared to Whatsapp - Less than Telegrm)
 
 
 # My favourite !!
