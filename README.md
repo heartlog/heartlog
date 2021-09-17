@@ -61,3 +61,6 @@
 
 [![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
 > Feel free to dm me !! Join my channel and group to support Me..
+
+## Fun
+<video src='https://raw.githubusercontent.com/heartlog/heartlog/main/src/VID_20210917_160927_243.mp4' width=180/>
