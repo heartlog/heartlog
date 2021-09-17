@@ -17,11 +17,11 @@
 
 
 
-# 𝓣𝓸𝓹 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
+# 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🆂🆃🅰🆃🆂
+# 𝓢𝓽𝓪𝓽𝓼
 * readme-streak-stats
 <p align="center">
   <a href="https://github.com/heartlog">
