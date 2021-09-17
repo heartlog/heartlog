@@ -23,6 +23,10 @@
 [![Python](https://img.shields.io/badge/Python-Python%203.9.7-fff000?style=for-the-badge&logo=Python&logoColor=violet)]()
 [![Javascript](https://img.shields.io/badge/Javascript-Beginner-fff000?style=for-the-badge&logo=javascript&logoColor=fff334)]()
 [![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=for-the-badge&logo=html5&logoColor=f56500)]()
+[![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=for-the-badge&logo=node.js&logoColor=82d61c)]()
+[![Gnubash](https://img.shields.io/badge/gnu bash-moderate-82d61c?style=for-the-badge&logo=gnubash&logoColor=82d61c)]()
+
+
 
 # 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
