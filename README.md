@@ -45,9 +45,9 @@ print("bsh😆😆😆😆")
 
 [![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/diablo_13N)
 
-[![Telegram](https://img.shields.io/badge/-Telegram%20Channel-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/diablo_13N)
+[![Telegram](https://img.shields.io/badge/-Telegram%20Channel-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/baka_no_onii)
 
-[![Telegram](https://img.shields.io/badge/-Telegram%20Support%20Group-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/diablo_13N)
+[![Telegram](https://img.shields.io/badge/-Telegram%20Support%20Group-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/anim_chatx)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/anime_element)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-%23282a36?style=for-the-badge&logo=Discord)]()
