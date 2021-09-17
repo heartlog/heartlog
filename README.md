@@ -17,7 +17,7 @@
 
 
 
-# Top languages
+# 𝓣𝓸𝓹 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
