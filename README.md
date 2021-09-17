@@ -46,7 +46,7 @@ print("bsh😆😆😆😆")
 
 [![Telegram](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-f15dff?style=for-the-badge&logo=telegram)](https://t.me/diablo_13N)
 
-[![Telegram](https://img.shields.io/badge/Telegram%20Channel-OY%20BAKA%20!-c6eff3?style=for-the-badge&logo=Telegrm)](https://t.me/baka_no_onii)
+[![Telegram](https://img.shields.io/badge/Telegram%20Channel-OY%20BAKA%20!-c6eff3?style=for-the-badge&logo=Telegram)](https://t.me/baka_no_onii)
 
 [![Telegram](https://img.shields.io/badge/Telegram%20Support%20Group-Anime%20Chat%20X-00adb5?style=for-the-badge&logo=Telegram)](https://t.me/anim_chatx)
 
