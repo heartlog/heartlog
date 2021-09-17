@@ -41,3 +41,13 @@ print("bsh😆😆😆😆")
 <img alt="royals's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heartlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
+## **Contact**
+
+[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/diablo_13N)
+
+[![Telegram](https://img.shields.io/badge/-Telegram%20Channel-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/diablo_13N)
+
+[![Telegram](https://img.shields.io/badge/-Telegram%20Support%20Group-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/diablo_13N)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/anime_element)
+[![Discord Server](https://img.shields.io/badge/-Discord%20Server-%23282a36?style=for-the-badge&logo=Discord)]()
