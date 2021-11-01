@@ -65,3 +65,12 @@
 ## Fun
 ### Music
 [summertime (Song by cinnamons and evening cinema)](https://t.me/streamtapeul_bot?start=agaduhiaalmtwek-67)
+
+<details>
+<summary>List my favourite music</summary>
+  
+<!-- favorites_anime starts -->
+* [summertime (Song by cinnamons and evening cinema](https://t.me/streamtapeul_bot?start=agaduhiaalmtwek-67)
+<!-- favorites_anime ends -->
+
+</details>
