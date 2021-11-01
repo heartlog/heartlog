@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 𝓢𝓽𝓪𝓽𝓼
-## **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
+* **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
 <p align="center">
   <a href="https://github.com/heartlog">
     <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=heartlog"/>
