@@ -63,9 +63,6 @@
 > Feel free to dm me !! Join my channel and group to support Me..
 
 ## Fun
-### Music
-[summertime (Song by cinnamons and evening cinema)](https://t.me/streamtapeul_bot?start=agaduhiaalmtwek-67)
-
 <details>
 <summary>List my favourite music</summary>
   
