@@ -42,8 +42,7 @@
 ## **Ǥᖇᗩᑭᕼ**
 <p align="centre">
 <a href="https://github.com/heartlog">
-<img alt="my's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heartlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
+![heartlog's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=heartlog)
 
 > For information, This activity graph only shows the **Public commits** and activity related to my/others public repos. So, Private commits is not calculated in this graph.
 
