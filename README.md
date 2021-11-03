@@ -17,7 +17,7 @@
 
 
 # My favourite !!
-![Ren](https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png)
+<img src="https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png" width="180px">
 
 # Languages I Know
 [![Python](https://img.shields.io/badge/Python-Python%203.9.7-fff000?style=for-the-badge&logo=Python&logoColor=violet)]()
