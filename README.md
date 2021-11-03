@@ -17,7 +17,8 @@
 
 
 # My favourite !!
-<img src="https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png" width="180px">
+<img src="https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png" width="180px">  <img src="https://telegra.ph/file/c76fd9fda765ba73594db.jpg" width="180px">
+
 
 # Languages I Know
 [![Python](https://img.shields.io/badge/Python-Python%203.9.7-fff000?style=for-the-badge&logo=Python&logoColor=violet)]()
