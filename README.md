@@ -17,7 +17,7 @@
 
 
 # My favourite !!
-<img src="https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png" width="200px">  <img src="https://c.tenor.com/9dOzFGFZxnoAAAAC/bite-anime.gif" width="180px">
+<img src="https://64.media.tumblr.com/3daf201e59facfd2823f6687c9d21b27/tumblr_mgh0emj9ch1rvhytso1_500.gif" width="200px">  <img src="https://c.tenor.com/9dOzFGFZxnoAAAAC/bite-anime.gif" width="180px">
 
 
 # Languages I Know
