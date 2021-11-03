@@ -69,7 +69,12 @@
 <summary>List my favourite music</summary>
   
 <!-- favorites_anime starts -->
+* [Marin Hoxha   Britt Lari - By Your Side (Lyrics)](https://t.me/streamtapeul_bot?start=agadrgwaanbpies-82)
 * [summertime (Song by cinnamons and evening cinema](https://t.me/streamtapeul_bot?start=agaduhiaalmtwek-67)
+* [faith marie - toxic thoughts (lyric video)](https://t.me/streamtapeul_bot?start=agadqhaaao-34ek-83)
+* [Nico Collins - Alone](https://t.me/streamtapeul_bot?start=agad7riaaghv2uk-84)
+* [Gryffin & Jason Ross After You ft.Calle Lehmann](https://t.me/streamtapeul_bot?start=agadehyaalyt-es-85)
+* [Escape Room Tournament of Champions Brian Tyler & Kill the Noise](https://t.me/streamtapeul_bot?start=agadzxuaatav0us-86)
 <!-- favorites_anime ends -->
 
 </details>
