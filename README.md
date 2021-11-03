@@ -81,5 +81,10 @@
 * [Gryffin & Jason Ross After You ft.Calle Lehmann](https://t.me/streamtapeul_bot?start=agadehyaalyt-es-85)
 * [Escape Room Tournament of Champions Brian Tyler & Kill the Noise](https://t.me/streamtapeul_bot?start=agadzxuaatav0us-86)
 <!-- favorites_anime ends -->
-
+</details>
+<details>
+<summary>Here Some pics</summary>
+<!-- pics starts -->
+  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" width="200px">
+<!-- pics ends -->
 </details>
