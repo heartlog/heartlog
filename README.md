@@ -5,7 +5,7 @@
 [![telegram badge](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-00adb5?style=flat&logo=telegram)](https://t.me/diablo_13N)  
 <img src="https://komarev.com/ghpvc/?username=heartlog&label=Profile%20views&color=ff69b4&style=flat" alt="dlaize" />
 
-### My instrests 💟
+### My instrests <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
 - Love to watch `anime` a lot ! 😇
 - Started to read manga a lot after I found a [good manga reader📖 ](https://tachiyomi.org/).
@@ -17,7 +17,7 @@
 
 
 # My favourite !!
-<img src="https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png" width="120px">  <img src="https://c.tenor.com/9dOzFGFZxnoAAAAC/bite-anime.gif" width="180px">
+<img src="https://raw.githubusercontent.com/heartlog/heartlog/main/src/Ren.png" width="200px">  <img src="https://c.tenor.com/9dOzFGFZxnoAAAAC/bite-anime.gif" width="180px">
 
 
 # Languages I Know
