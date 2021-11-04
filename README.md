@@ -14,6 +14,7 @@
 - I like to see `Subbed Anime` over `Dubbed Anime`.(so, **Sub > Dub**)
 - `Anime Sub` is **100 times** better than Dub for me. [✓](https://reelrundown.com/animation/Subbed-vs-Dubbed-Which-is-the-Best-Way-to-Watch-Anime)
 - I use `Telegrm` a lot ! (If compared **Telegrm** > **Whatsapp** 😇)
+- I like Biology a lot compared to chemistry and physics..😄
 
 
 # My favourite !!
