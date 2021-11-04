@@ -69,7 +69,7 @@
 [![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
 > Feel free to dm me !! Join my channel and group to support Me..
 
-## Fun
+## Fun<img src="https://telegra.ph/file/09eeb99dbc9e9d94f08d6.gif" width="25px">
 <details>
 <summary>List my favourite music</summary>
   
