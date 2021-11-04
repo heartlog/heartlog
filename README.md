@@ -71,7 +71,7 @@
 
 ## Fun<img src="https://telegra.ph/file/09eeb99dbc9e9d94f08d6.gif" width="25px">
 <details>
-<summary>List my favourite music</summary>
+<summary>List my favourite music 🎶</summary>
   
 <!-- favorites_anime starts -->
 * [Marin Hoxha   Britt Lari - By Your Side (Lyrics)](https://t.me/streamtapeul_bot?start=agadrgwaanbpies-82)
@@ -83,7 +83,7 @@
 <!-- favorites_anime ends -->
 </details>
 <details>
-<summary>Here Some pics</summary>
+<summary>Here Some pics 🖼️</summary>
 <!-- pics starts -->
   <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" width="200px">
 <!-- pics ends -->
