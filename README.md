@@ -54,7 +54,7 @@
    <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
 
 
-## **Contact**
+## **Contact** <img src="https://telegra.ph/file/3057a91776e2afa64600d.jpg" width="25px">
 
 [![Telegram](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-f15dff?style=for-the-badge&logo=telegram)](https://t.me/diablo_13N)
 
