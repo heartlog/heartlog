@@ -1,7 +1,17 @@
-___
+▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩
+
 # :wave: Hello bakas..! <img src="https://telegra.ph/file/a0e0a02352d078934dd00.jpg" width="30px">
-___
+▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩
 <h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="40px"> Hi, I'm ⚡★ ‌E​ 𐌡ǝ​ ⟁⃤⚡</h2>
+
+<details>
+<summary>What names I have ? 😚</summary>
+
+* E​ 𐌡ǝ
+* Heartlog
+* @diablo_13N
+</details>
+
 
 [![telegram badge](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-00adb5?style=flat&logo=telegram)](https://t.me/diablo_13N)  
 <img src="https://komarev.com/ghpvc/?username=heartlog&label=Profile%20views&color=ff69b4&style=flat" alt="dlaize" />
