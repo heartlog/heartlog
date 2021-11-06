@@ -98,9 +98,12 @@
 <summary>Here Some pics 🖼️</summary>
 <!-- pics starts -->
 
-  <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" width="200px">
+* Never stop gif..
+<img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" width="200px">
 
-  <img src="https://thispersondoesnotexist.com/" width="200px">
+
+* Each time new ai gen image..
+<img src="https://thispersondoesnotexist.com/image" width="200px">
   
 <!-- pics ends -->
 </details>
