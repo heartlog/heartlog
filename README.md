@@ -1,4 +1,4 @@
-▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩
+
 
 # :wave: Hello bakas..! <img src="https://telegra.ph/file/a0e0a02352d078934dd00.jpg" width="30px">
 ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩  ▩
