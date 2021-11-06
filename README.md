@@ -38,7 +38,7 @@ ___
 * **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
 <p align="center">
   <a href="https://github.com/heartlog">
-    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=heartlog"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=heartlog&show_icons=true&theme=merko"/>
   </a>
 </p>
 
