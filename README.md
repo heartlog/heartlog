@@ -104,6 +104,13 @@
 
 * Each time new ai gen image..
 <img src="https://telegra.ph/file/a6ddd1e554528d1c0dbd7.jpg" width="200px">
-  
+</details>
+<details>
+<summary>I like a hotto dogu..</summary>
+<div>
+
+https://user-images.githubusercontent.com/76758776/140639300-2d535f7a-d078-4df7-a09a-bbf8a6bd1ae9.mp4
+
+</div>
 <!-- pics ends -->
 </details>
