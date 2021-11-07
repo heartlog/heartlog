@@ -4,7 +4,7 @@
 
 <h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="40px"> Hi, I'm ⚡★ ‌E​ 𐌡ǝ​ ⟁⃤⚡</h2>
 
-<details>
+<details open>
 <summary>What names I have ? 😚</summary>
 
 * E​ 𐌡ǝ
@@ -82,7 +82,7 @@
 > Feel free to dm me !! Join my channel and group to support Me..
 
 ## Fun<img src="https://telegra.ph/file/09eeb99dbc9e9d94f08d6.gif" width="25px">
-<details>
+<details open>
 <summary>List my favourite music 🎶</summary>
   
 <!-- favorites_anime starts -->
