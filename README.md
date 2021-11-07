@@ -103,7 +103,7 @@
 
 
 * Each time new ai gen image..
-<img src="https://thispersondoesnotexist.com/image" width="200px">
+<img src="https://telegra.ph/file/a6ddd1e554528d1c0dbd7.jpg" width="200px">
   
 <!-- pics ends -->
 </details>
