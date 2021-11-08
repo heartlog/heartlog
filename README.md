@@ -81,6 +81,19 @@
 [![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
 > Feel free to dm me !! Join my channel and group to support Me..
 
+## Anilist
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+
+<!-- anilist_activity starts -->
+<!-- anilist_activity ends -->
+
+</details>
+
+
+
+
+
 ## <h2 align="centre"><img src="https://c.tenor.com/DbRUHnh1JfsAAAAM/chika-chika-dance.gif" width="35px">Fun time:</h2>
 <details open>
 <summary>List my favourite music 🎶</summary>
