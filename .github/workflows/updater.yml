@@ -1,4 +1,5 @@
 name: Update Github README
+on:
   push:
     branches: [ main ]
   pull_request:
