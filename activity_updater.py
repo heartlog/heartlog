@@ -7,6 +7,7 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://graphql.anilist.co")
 
 
+
 TOKEN = os.environ.get("ANILIST_TOKEN", "")
 
 
