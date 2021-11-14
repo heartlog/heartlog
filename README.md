@@ -7,9 +7,9 @@
 <details open>
 <summary>What names I have ? 😚</summary>
 
-* E​ 𐌡ǝ
-* Heartlog
-* @diablo_13N
+- [x] E​ 𐌡ǝ
+- [ ] Heartlog
+- [x] @diablo_13N
 </details>
 
 
