@@ -1,6 +1,16 @@
 
 
 # :wave: Hello bakas..! <img src="https://telegra.ph/file/a0e0a02352d078934dd00.jpg" width="30px">
+<details>
+<summary>What's I am up to this time.</summary>
+<div>
+
+- [ ] Available
+- [x] Kinda involved in work
+
+</div>
+<!-- pics ends -->
+</details>
 
 
 <h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="40px"> Hi, I'm ⚡★ ‌E​ 𐌡ǝ​ ⟁⃤⚡</h2>
@@ -128,14 +138,4 @@ https://user-images.githubusercontent.com/76758776/140639300-2d535f7a-d078-4df7-
 </div>
 <!-- pics ends -->
 </details>
-</details>
-<details>
-<summary>What's I am up to this time.</summary>
-<div>
-
-- [ ] Available
-- [x] Kinda involved in work
-
-</div>
-<!-- pics ends -->
 </details>
