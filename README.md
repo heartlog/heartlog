@@ -5,8 +5,8 @@
 <summary>What's I am up to this time.</summary>
 <div>
 
-- [ ] Available
-- [x] Kinda involved in work
+- [ ] Available 
+- [x] Kinda involved in work 💙
 
 </div>
 <!-- pics ends -->
