@@ -1,6 +1,4 @@
-
-
-# :wave: Hello bakas..! <img src="https://telegra.ph/file/a0e0a02352d078934dd00.jpg" width="30px">
+# :wave: Hello ..! <img src="https://telegra.ph/file/a0e0a02352d078934dd00.jpg" width="30px">
 <details>
 <summary>What's I am up to this time.</summary>
 <div>
@@ -13,15 +11,7 @@
 </details>
 
 
-<h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="40px"> Hi, I'm ⚡★ ‌E​ 𐌡ǝ​ ⟁⃤⚡</h2>
-
-<details open>
-<summary>What names I have ? 😚</summary>
-
-- [x] E​ 𐌡ǝ
-- [x] Heartlog
-- [x] @diablo_13N
-</details>
+<h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="40px"> Hi, I'm Heartlog</h2>
 
 
 [![telegram badge](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-00adb5?style=flat&logo=telegram)](https://t.me/diablo_13N)  
@@ -106,18 +96,6 @@
 
 
 ## <h2 align="centre"><img src="https://c.tenor.com/DbRUHnh1JfsAAAAM/chika-chika-dance.gif" width="35px">Fun time:</h2>
-<details open>
-<summary>List my favourite music 🎶</summary>
-  
-<!-- favorites_anime starts -->
-* [Marin Hoxha   Britt Lari - By Your Side (Lyrics)](https://t.me/streamtapeul_bot?start=agadrgwaanbpies-82)
-* [summertime (Song by cinnamons and evening cinema](https://t.me/streamtapeul_bot?start=agaduhiaalmtwek-67)
-* [faith marie - toxic thoughts (lyric video)](https://t.me/streamtapeul_bot?start=agadqhaaao-34ek-83)
-* [Nico Collins - Alone](https://t.me/streamtapeul_bot?start=agad7riaaghv2uk-84)
-* [Gryffin & Jason Ross After You ft.Calle Lehmann](https://t.me/streamtapeul_bot?start=agadehyaalyt-es-85)
-* [Escape Room Tournament of Champions Brian Tyler & Kill the Noise](https://t.me/streamtapeul_bot?start=agadzxuaatav0us-86)
-<!-- favorites_anime ends -->
-</details>
 <details>
 <summary>Here Some pics 🖼️</summary>
 <!-- pics starts -->
