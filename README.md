@@ -20,7 +20,7 @@
 ### My instrests <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
 - Love to watch `anime` <img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3e54f936f2dede/tumblr_nwuic57GRg1udvy5wo1_500.gif" width="25px"> a lot ! 😇
-- Started to read manga a lot after I found a [good manga reader ](https://tachiyomi.org/)<img src="https://styles.redditmedia.com/t5_9djzx/styles/communityIcon_gvrl5wi7k0t41.png?width=256&s=5da8d97aa21c5f39768b1a166ccbee9a579033a6" width="25px">.
+- Started to read manga a lot after I found a good manga reader .
 - I also read LN.
 - Also, I read `Webtoon`, `webnovel`, `Manhua`, `Manhwa`. → [Translated in english by many `scans/translators`]
 - I like to see `Subbed Anime` over `Dubbed Anime`.(so, **Sub > Dub**)
@@ -54,13 +54,7 @@
 </p>
 
 
-## **Ǥᖇᗩᑭᕼ**
-<p align="centre">
-<a href="https://github.com/heartlog">
-<img alt="my's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heartlog&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
 
-> For information, This activity graph only shows the **Public commits** and activity related to my/others public repos. So, Private commits is not calculated in this graph.
 
 # My Works !!
 1) [**Yoi Bot**](https://t.me/streamtapeul_bot) - The bot that can do many things !!
@@ -82,14 +76,7 @@
 [![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
 > Feel free to dm me !! Join my channel and group to support Me..
 
-## Anilist
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
 
-<!-- anilist_activity starts -->
-<!-- anilist_activity ends -->
-
-</details>
 
 
 
