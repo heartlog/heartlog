@@ -74,12 +74,7 @@
 [![Discord Server](https://img.shields.io/badge/Discord-Discord%20Server(currently%20in%20maintanance)-6000d0?style=for-the-badge&logo=Discord)]()
 
 [![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
-> Feel free to dm me !! Join my channel and group to support Me..
-
-
-
-
-
+> Feel free to dm me !! Join my channel and group ..
 
 
 ## <h2 align="centre"><img src="https://c.tenor.com/DbRUHnh1JfsAAAAM/chika-chika-dance.gif" width="35px">Fun time:</h2>
