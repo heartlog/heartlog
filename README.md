@@ -19,14 +19,14 @@
 
 ### My instrests <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
-- Love to watch `anime` <img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3e54f936f2dede/tumblr_nwuic57GRg1udvy5wo1_500.gif" width="25px"> a lot ! 😇
-- Started to read manga a lot after I found a good manga reader .
-- I also read LN.
-- Also, I read `Webtoon`, `webnovel`, `Manhua`, `Manhwa`. → [Translated in english by many `scans/translators`]
-- I like to see `Subbed Anime` over `Dubbed Anime`.(so, **Sub > Dub**)
-- `Anime Sub` is **100 times** better than Dub for me. [✓](https://reelrundown.com/animation/Subbed-vs-Dubbed-Which-is-the-Best-Way-to-Watch-Anime)
-- I use `Telegrm` a lot ! (If compared **Telegrm** > **Whatsapp** 😇)
-- I like Biology a lot compared to chemistry and physics..😄
+I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3e54f936f2dede/tumblr_nwuic57GRg1udvy5wo1_500.gif" width="25px"> and manga a lot ! 😇
+- I started reading manga a lot after finding a good manga reader.
+- I also enjoy reading light novels.
+- Additionally, I read Webtoons, web novels, Manhua, and Manhwa, which are translated into English by various scans/translators.
+- I prefer watching subbed anime over dubbed anime (So, sub > dub).
+- Anime with subtitles is significantly better than the dubbed version for me. [✓](https://reelrundown.com/animation/Subbed-vs-Dubbed-Which-is-the-Best-Way-to-Watch-Anime)
+- I use `Telegramm` a lot ! (If compared **Telegrm** > **Whatsapp** 😇)
+- I have a strong preference for biology compared to chemistry and physics. 😄
 
 
 # My favourite !!
