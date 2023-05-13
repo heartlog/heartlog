@@ -84,7 +84,7 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 * Never stop gif..
 <img src="https://i.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.webp" width="200px">
-
+    I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors
 
 * Each time new ai gen image..
 <img src="https://telegra.ph/file/a6ddd1e554528d1c0dbd7.jpg" width="200px">
