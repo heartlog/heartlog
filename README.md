@@ -13,9 +13,11 @@
 
 <h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="30px"> Hi, I'm Heartlog</h2>
 
+<p align="center">
 
 [![telegram badge](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-00adb5?style=flat&logo=telegram)](https://t.me/diablo_13N)  
 <img src="https://komarev.com/ghpvc/?username=heartlog&label=Profile%20views&color=ff69b4&style=flat" alt="dlaize" />
+</p>
 
 ### My instrests <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
