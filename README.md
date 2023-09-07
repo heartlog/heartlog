@@ -67,7 +67,7 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 ## **Contact** <img src="https://telegra.ph/file/3057a91776e2afa64600d.jpg" width="25px">
 
 <details>
-<summary>Here Some pics 🖼️</summary>
+<summary>Contact me !</summary>
 
 [![Telegram](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-f15dff?style=for-the-badge&logo=telegram)](https://t.me/diablo_13N)
 
