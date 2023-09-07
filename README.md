@@ -42,7 +42,7 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 ## Tools I use
 
-[![bash](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)]()
+[![bash](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)]()
 
 ## 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
