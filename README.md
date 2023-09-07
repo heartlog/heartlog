@@ -7,7 +7,7 @@
 - [x] Kinda involved in work 💙
 
 </div>
-<!-- pics ends -->
+<!-- ends -->
 </details>
 
 
@@ -60,11 +60,14 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 
 ## My Works !!
+
 1) [**Yoi Bot**](https://t.me/streamtapeul_bot) - The bot that can do many things !!
    <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
 
-
 ## **Contact** <img src="https://telegra.ph/file/3057a91776e2afa64600d.jpg" width="25px">
+
+<details>
+<summary>Here Some pics 🖼️</summary>
 
 [![Telegram](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-f15dff?style=for-the-badge&logo=telegram)](https://t.me/diablo_13N)
 
@@ -79,6 +82,7 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 [![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
 > Feel free to dm me !! Join my channel and group ..
 
+</details>
 
 ## <h2 align="centre"><img src="https://c.tenor.com/DbRUHnh1JfsAAAAM/chika-chika-dance.gif" width="35px">Fun time:</h2>
 <details>
