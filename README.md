@@ -34,7 +34,7 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 
 ## Languages I Know
-[![Python](https://img.shields.io/badge/Python-Python%203.9.X-fff000?style=for-the-badge&logo=Python&logoColor=fff000)]()
+[![Python](https://img.shields.io/badge/Python-Python%203.9.X-fff000?style=for-the-badge&logo=Python&logoColor=blue)]()
 [![Javascript](https://img.shields.io/badge/Javascript-Beginner-fff000?style=for-the-badge&logo=javascript&logoColor=fff334)]()
 [![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=for-the-badge&logo=html5&logoColor=f56500)]()
 [![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=for-the-badge&logo=node.js&logoColor=82d61c)]()
