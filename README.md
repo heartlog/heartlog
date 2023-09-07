@@ -84,7 +84,7 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 </details>
 
-## <h2 align="centre"><img src="https://c.tenor.com/DbRUHnh1JfsAAAAM/chika-chika-dance.gif" width="35px">Fun time:</h2>
+## <h2 align="centre"><img src="https://c.tenor.com/DbRUHnh1JfsAAAAM/chika-chika-dance.gif" width="10px"> Fun time:</h2>
 <details>
 <summary>Here Some pics 🖼️</summary>
 <!-- pics starts -->
