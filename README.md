@@ -44,11 +44,11 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 [![bash](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)]()
 
-# 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
+## 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# 𝓢𝓽𝓪𝓽𝓼
+## 𝓢𝓽𝓪𝓽𝓼
 * **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
 <p align="center">
   <a href="https://github.com/heartlog">
@@ -59,7 +59,7 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 
 
-# My Works !!
+## My Works !!
 1) [**Yoi Bot**](https://t.me/streamtapeul_bot) - The bot that can do many things !!
    <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
 
