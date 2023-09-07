@@ -29,12 +29,12 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 - I have a strong preference for biology compared to chemistry and physics. 😄
 
 
-## My favourite !!
-<img src="https://64.media.tumblr.com/3daf201e59facfd2823f6687c9d21b27/tumblr_mgh0emj9ch1rvhytso1_500.gif" width="200px">  <img src="https://c.tenor.com/9dOzFGFZxnoAAAAC/bite-anime.gif" width="180px">
+## Vibes
+
 
 
 ## Languages I Know
-[![Python](https://img.shields.io/badge/Python-Python%203.9.7-fff000?style=for-the-badge&logo=Python&logoColor=violet)]()
+[![Python](https://img.shields.io/badge/Python-Python%203.9.X-fff000?style=for-the-badge&logo=Python&logoColor=violet)]()
 [![Javascript](https://img.shields.io/badge/Javascript-Beginner-fff000?style=for-the-badge&logo=javascript&logoColor=fff334)]()
 [![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=for-the-badge&logo=html5&logoColor=f56500)]()
 [![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=for-the-badge&logo=node.js&logoColor=82d61c)]()
