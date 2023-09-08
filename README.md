@@ -68,15 +68,15 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 <details>
 <summary>Contact me !</summary>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-f15dff?style=for-the-badge&logo=telegram)](https://t.me/diablo_13N)
+[![Telegram](https://img.shields.io/badge/Telegram-Maday(@diablo_13N)-f15dff?style=flat-square&logo=telegram)](https://t.me/diablo_13N)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-OY%20BAKA%20!-c6eff3?style=for-the-badge&logo=Telegram)](https://t.me/baka_no_onii)
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-OY%20BAKA%20!-c6eff3?style=flat-square&logo=Telegram)](https://t.me/baka_no_onii)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram%20Support%20Group-Anime%20Chat%20X-00adb5?style=for-the-badge&logo=Telegram)](https://t.me/anim_chatx)
+[![Telegram Group](https://img.shields.io/badge/Telegram%20Support%20Group-Anime%20Chat%20X-00adb5?style=flat-square&logo=Telegram)](https://t.me/anim_chatx)
 
-[![Twitter](https://img.shields.io/badge/Twitter-anime_element-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/anime_element)
+[![Twitter](https://img.shields.io/badge/Twitter-anime_element-%23282a36?style=flat-square&logo=Twitter)](https://www.twitter.com/anime_element)
 
-[![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
+[![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=flat-square&logo=anilist)](https://anilist.co/user/diablo13N/)
 > Feel free to dm me !! Join my channel and group ..
 
 </details>
