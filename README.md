@@ -1,15 +1,14 @@
 # :wave: Hello ..! <img src="https://telegra.ph/file/a0e0a02352d078934dd00.jpg" width="30px">
+
 <details>
 <summary>What's I am up to this time.</summary>
 <div>
 
-- [ ] Available 
+- [ ] Available
 - [x] Kinda involved in work 💙
 
 </div>
-<!-- ends -->
 </details>
-
 
 <h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="30px"> Hi, I'm Heartlog</h2>
 
@@ -30,36 +29,34 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 - I use `Telegramm` a lot ! (If compared **Telegrm** > **Whatsapp** 😇)
 - I have a strong preference for biology compared to chemistry and physics. 😄
 
-
 ## Vibes
 
-
+- LOADING...
 
 ## Languages I Know
-[![Python](https://img.shields.io/badge/Python-Python%203.9.X-fff000?style=for-the-badge&logo=Python&logoColor=blue)]()
-[![Javascript](https://img.shields.io/badge/Javascript-Beginner-fff000?style=for-the-badge&logo=javascript&logoColor=fff334)]()
-[![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=for-the-badge&logo=html5&logoColor=f56500)]()
-[![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=for-the-badge&logo=node.js&logoColor=82d61c)]()
-[![bash](https://img.shields.io/badge/bash-moderate-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25)]()
+
+[![Python](https://img.shields.io/badge/Python-Python%203.9.X-fff000?style=flat-square&logo=Python&logoColor=blue)](https://www.python.org/downloads/)
+[![Javascript](https://img.shields.io/badge/Javascript-Beginner-fff000?style=flat-square&logo=javascript&logoColor=fff334)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=flat-square&logo=html5&logoColor=f56500)](https://html.spec.whatwg.org/)
+[![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=flat-square&logo=node.js&logoColor=82d61c)](https://nodejs.org/en/download/)
+![bash](https://img.shields.io/badge/bash-moderate-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
 ## Tools I use
 
-[![bash](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)]()
+[![VScode](https://img.shields.io/badge/vscode-grey?style=flat-square&logo=Visual-studio-code&logoColor=blue)]()
 
 ## 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 𝓢𝓽𝓪𝓽𝓼
+
 * **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
 <p align="center">
   <a href="https://github.com/heartlog">
     <img src="https://github-readme-stats.vercel.app/api?username=heartlog&show_icons=true&theme=merko"/>
   </a>
 </p>
-
-
-
 
 ## My Works !!
 
@@ -79,18 +76,15 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 [![Twitter](https://img.shields.io/badge/Twitter-anime_element-%23282a36?style=for-the-badge&logo=Twitter)](https://www.twitter.com/anime_element)
 
-[![Discord Server](https://img.shields.io/badge/Discord-Discord%20Server(currently%20in%20maintanance)-6000d0?style=for-the-badge&logo=Discord)]()
-
 [![AniList](https://img.shields.io/badge/AniList-diablo13n-00a2ff?style=for-the-badge&logo=anilist)](https://anilist.co/user/diablo13N/)
 > Feel free to dm me !! Join my channel and group ..
 
 </details>
 
 ## <h2 align="centre"><img src="https://c.tenor.com/DbRUHnh1JfsAAAAM/chika-chika-dance.gif" width="10px"> Fun time:</h2>
+
 <details>
 <summary>Here Some pics 🖼️</summary>
-<!-- pics starts -->
-
 <img src="https://github.com/heartlog/heartlog/blob/main/src/heartlogname.png" width="200px">
 
 <img src="https://telegra.ph/file/a6ddd1e554528d1c0dbd7.jpg" width="200px">
