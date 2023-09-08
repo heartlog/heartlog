@@ -85,18 +85,8 @@ I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 <details>
 <summary>Here Some pics 🖼️</summary>
-<img src="https://github.com/heartlog/heartlog/blob/main/src/heartlogname.png" width="200px">
 
-<img src="https://telegra.ph/file/a6ddd1e554528d1c0dbd7.jpg" width="200px">
-</details>
+### it's Loading time
 
-
-<details>
-<summary>I like a hotto dogu..</summary>
-<div>
-
-https://user-images.githubusercontent.com/76758776/140639300-2d535f7a-d078-4df7-a09a-bbf8a6bd1ae9.mp4
-
-</div>
-<!-- pics ends -->
+<img src="https://telegra.ph/file/ebb94b26bd804da19cf11.gif" width="200px">
 </details>
