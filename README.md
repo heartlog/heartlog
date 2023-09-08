@@ -1,4 +1,4 @@
-# :wave: Hello ..! <img src="https://telegra.ph/file/a0e0a02352d078934dd00.jpg" width="30px">
+# :wave: Hello ..! <img src="https://telegra.ph/file/473f24669dc24dbc08742.png" width="30px">
 
 <details>
 <summary>What's I am up to this time.</summary>
