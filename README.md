@@ -48,7 +48,11 @@ I Love to watching `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 ## Tools I use
 
+<div align="center">
+
 [![VScode](https://img.shields.io/badge/vscode-grey?style=flat-square&logo=Visual-studio-code&logoColor=blue)](https://code.visualstudio.com/download)
+
+</div>
 
 ## 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
