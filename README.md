@@ -52,7 +52,11 @@ I Love to watching `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 ## 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## 𝓢𝓽𝓪𝓽𝓼
 
@@ -64,9 +68,16 @@ I Love to watching `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 </p>
 
 ## My Works !!
+<details>
+<summary>Show My Works</summary>
 
-1) [**Yoi Bot**](https://t.me/streamtapeul_bot) - The bot that can do many things !!
+1) [**Yoi Bot**](https://t.me/streamtapeul_bot) 
+
+- The bot that can do many things !!
+
    <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
+
+</details>
 
 ## **Contact** <img src="https://telegra.ph/file/3057a91776e2afa64600d.jpg" width="25px">
 
