@@ -36,11 +36,15 @@ I Love to watching `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95
 
 ## Languages I Know
 
+<div align="center">
+
 [![Python](https://img.shields.io/badge/Python-Python%203.9.X-fff000?style=flat-square&logo=Python&logoColor=blue)](https://www.python.org/downloads/)
 [![Javascript](https://img.shields.io/badge/Javascript-Beginner-fff000?style=flat-square&logo=javascript&logoColor=fff334)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=flat-square&logo=html5&logoColor=f56500)](https://html.spec.whatwg.org/)
 [![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=flat-square&logo=node.js&logoColor=82d61c)](https://nodejs.org/en/download/)
 ![bash](https://img.shields.io/badge/bash-moderate-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
+</div>
 
 ## Tools I use
 
