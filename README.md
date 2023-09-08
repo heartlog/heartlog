@@ -20,12 +20,13 @@
 
 ### My instrests <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
-I Love to watchinh `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3e54f936f2dede/tumblr_nwuic57GRg1udvy5wo1_500.gif" width="25px"> and manga a lot ! 😇
+I Love to watching `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3e54f936f2dede/tumblr_nwuic57GRg1udvy5wo1_500.gif" width="25px"> and manga a lot ! 😇
+
 - I started reading manga a lot after finding a good manga reader.
 - I also enjoy reading light novels.
 - Additionally, I read Webtoons, web novels, Manhua, and Manhwa, which are translated into English by various scans/translators.
 - I prefer watching subbed anime over dubbed anime (So, sub > dub).
-- Anime with subtitles is significantly better than the dubbed version for me. [✓](https://reelrundown.com/animation/Subbed-vs-Dubbed-Which-is-the-Best-Way-to-Watch-Anime)
+- Anime with subtitles is significantly better than the dubbed version for me.
 - I use `Telegramm` a lot ! (If compared **Telegrm** > **Whatsapp** 😇)
 - I have a strong preference for biology compared to chemistry and physics. 😄
 
