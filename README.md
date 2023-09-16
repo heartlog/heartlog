@@ -20,7 +20,7 @@
 
 ### My instrests <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
-I Love to watching `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3e54f936f2dede/tumblr_nwuic57GRg1udvy5wo1_500.gif" width="25px"> and manga a lot ! 😇
+I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3e54f936f2dede/tumblr_nwuic57GRg1udvy5wo1_500.gif" width="25px"> and manga a lot ! 😇
 
 - Nothing special 👍🐧
 
