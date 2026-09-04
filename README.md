@@ -40,11 +40,14 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 <details>
 <summary>Show My Works</summary>
 
-1) [**Yoi Bot**](https://t.me/streamtapeul_bot) 
+1) [**Yoi Bot**](https://t.me/streamtapeul_bot)
+   - The bot that can do many things !!
+     <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
 
-- The bot that can do many things !!
 
-   <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
+   
+2) [Hoyocodes!](https://github.com/heartlog/Hoyocodes)
+   - Auto-updating redeem code tracker for Genshin/HSR/ZZZ/HI-3rd/TOT with clickable links
 
 </details>
 
