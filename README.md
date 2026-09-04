@@ -31,7 +31,7 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 </div>
 
 ## Tools I use
-[![VScode](https://img.shields.io/badge/vscode-grey?style=flat-square&logo=Visual-studio-code&logoColor=blue)](https://code.visualstudio.com/download)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨
 [![GitHub Streak](https://streak-stats.demolab.com/?user=heartlog&theme=windows-dark)](https://git.io/streak-stats)
