@@ -1,15 +1,10 @@
-# :wave: Hello ..! <img src="https://telegra.ph/file/473f24669dc24dbc08742.png" width="30px">
+# 🌊 Hello there! I'm Heartlog 💙 <img src="https://telegra.ph/file/473f24669dc24dbc08742.png" width="30px">
 
-<details>
-<summary>What's I am up to this time.</summary>
-<div>
+## 🌸 About Me <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
-- [ ] Available
-- [x] Kinda involved in work 💙
-
-</div>
-</details>
-
+* **Current Status:** Kinda involved in work 💙
+* **Interests:** Massive fan of anime and manga! 😇
+* **Vibes:** LOADING... 🐧
 <h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="30px"> Hi, I'm Heartlog</h2>
 
 <div align="center">
@@ -24,11 +19,7 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 
 - Nothing special 👍🐧
 
-## Vibes
-
-- LOADING...
-
-## Languages I Know
+## Languages
 
 <div align="center">
 
@@ -37,43 +28,26 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 [![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=flat-square&logo=html5&logoColor=f56500)](https://html.spec.whatwg.org/)
 [![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=flat-square&logo=node.js&logoColor=82d61c)](https://nodejs.org/en/download/)
 ![bash](https://img.shields.io/badge/bash-moderate-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25)
-
 </div>
 
 ## Tools I use
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
-
-[![VScode](https://img.shields.io/badge/vscode-grey?style=flat-square&logo=Visual-studio-code&logoColor=blue)](https://code.visualstudio.com/download)
-
-</div>
-
-## 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-## 𝓢𝓽𝓪𝓽𝓼
-
-* **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
-<p align="center">
-  <a href="https://github.com/heartlog">
-    <img src="https://github-readme-stats.vercel.app/api?username=heartlog&show_icons=true&theme=merko"/>
-  </a>
-</p>
+## 𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨
+[![GitHub Streak](https://streak-stats.demolab.com/?user=heartlog&theme=windows-dark)](https://git.io/streak-stats)
 
 ## My Works !!
 <details>
 <summary>Show My Works</summary>
 
-1) [**Yoi Bot**](https://t.me/streamtapeul_bot) 
+1) [**Yoi Bot**](https://t.me/streamtapeul_bot)
+   - The bot that can do many things !!
+     <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
 
-- The bot that can do many things !!
 
-   <p align="centre"><a href="https://t.me/streamtapeul_bot"><img alt="Yoi bot" src="https://telegra.ph/file/1ca55de37da4892934e4f.jpg" width="100px"></a></p>
+   
+2) [Hoyocodes!](https://github.com/heartlog/Hoyocodes)
+   - Auto-updating redeem code tracker for Genshin/HSR/ZZZ/HI-3rd/TOT with clickable links
 
 </details>
 
@@ -100,7 +74,7 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 <details>
 <summary>Here Some pics 🖼️</summary>
 
-### it's Loading time
+### It's Loading time
 
 <img src="https://telegra.ph/file/ebb94b26bd804da19cf11.gif" width="200px">
 </details>
