@@ -19,11 +19,7 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 
 - Nothing special 👍🐧
 
-## Vibes
-
-- LOADING...
-
-## Languages I Know
+## Languages
 
 <div align="center">
 
@@ -32,33 +28,13 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 [![HTML5](https://img.shields.io/badge/HTML5-website-f56500?style=flat-square&logo=html5&logoColor=f56500)](https://html.spec.whatwg.org/)
 [![Nodejs](https://img.shields.io/badge/Node.js-moderate-82d61c?style=flat-square&logo=node.js&logoColor=82d61c)](https://nodejs.org/en/download/)
 ![bash](https://img.shields.io/badge/bash-moderate-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25)
-
 </div>
 
 ## Tools I use
-
-<div align="center">
-
 [![VScode](https://img.shields.io/badge/vscode-grey?style=flat-square&logo=Visual-studio-code&logoColor=blue)](https://code.visualstudio.com/download)
 
-</div>
-
-## 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartlog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-## 𝓢𝓽𝓪𝓽𝓼
-
-* **𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨**
-<p align="center">
-  <a href="https://github.com/heartlog">
-    <img src="https://github-readme-stats.vercel.app/api?username=heartlog&show_icons=true&theme=merko"/>
-  </a>
-</p>
+## 𝙎𝙩𝙧𝙚𝙖𝙠 𝙎𝙩𝙖𝙩𝙨
+[![GitHub Streak](https://streak-stats.demolab.com/?user=heartlog&theme=windows-dark)](https://git.io/streak-stats)
 
 ## My Works !!
 <details>
@@ -95,7 +71,7 @@ I Love to watch `anime`<img src="https://64.media.tumblr.com/e1e34fb5b9c17f95db3
 <details>
 <summary>Here Some pics 🖼️</summary>
 
-### it's Loading time
+### It's Loading time
 
 <img src="https://telegra.ph/file/ebb94b26bd804da19cf11.gif" width="200px">
 </details>
