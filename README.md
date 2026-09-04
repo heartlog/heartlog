@@ -1,15 +1,10 @@
-# :wave: Hello ..! <img src="https://telegra.ph/file/473f24669dc24dbc08742.png" width="30px">
+# 🌊 Hello there! I'm Heartlog 💙 <img src="https://telegra.ph/file/473f24669dc24dbc08742.png" width="30px">
 
-<details>
-<summary>What's I am up to this time.</summary>
-<div>
+## 🌸 About Me <img src="https://c.tenor.com/nWr4wY4tZMUAAAAi/cute-bunny-girl-heart.gif" width="25px">
 
-- [ ] Available
-- [x] Kinda involved in work 💙
-
-</div>
-</details>
-
+* **Current Status:** Kinda involved in work 💙
+* **Interests:** Massive fan of anime and manga! 😇
+* **Vibes:** LOADING... 🐧
 <h2 align="left"><img src="https://i.pinimg.com/originals/1c/79/ac/1c79ac50b06bb42a24058bf13c162a3e.gif" width="30px"> Hi, I'm Heartlog</h2>
 
 <div align="center">
